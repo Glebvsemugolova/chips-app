@@ -8,3 +8,5 @@ Chips component renders chips in one line. If in this line not enough spaces for
 ## For start project
 
 In the project directory, you can run:
+
+### `npm start`
